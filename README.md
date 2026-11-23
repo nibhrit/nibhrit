@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nibhrit
-- 👀 I’m interested in software development and programming
-- 🌱 I’m currently learning Java, web development and building some websites/pages for learning HTML, CSS, JS
-- 📫 How to reach me - Linkedin: https://www.linkedin.com/in/nibhrit-mohanty/  Gmail: nibhritm@gmail.com
+- Ex-PayPal engineer, IIM Mumbai MBA. I build working AI prototypes to test product ideas, from payment agents to scam checkers.
+- 📫 How to reach me - Linkedin: https://www.linkedin.com/in/nibhrit-mohanty/  Email: nibhritmohanty.pm@gmail.com
+- Portfolio - nibhritbuilds.in
 
 <!---
 nibhrit/nibhrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
